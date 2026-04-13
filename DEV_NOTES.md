@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Fixed minor edge case in input handling
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-13
+- Wrote notes on upcoming feature design
