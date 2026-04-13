@@ -21,3 +21,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-13
 - Wrote notes on upcoming feature design
+
+## 2026-04-13
+- Improved error handling in edge cases
+- Cross-checked behaviour against spec
+- Fixed off-by-one error in loop
